@@ -3,7 +3,7 @@
 #include "function_divisao.c"
 #include "function_multiplicar.c"
 
-int main()
+int main(void)
 {
     assert((5 + 5) == 10);
    
